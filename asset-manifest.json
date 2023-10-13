@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-04-1-Maxim/static/css/main.c9930a93.css",
+    "main.js": "/react-04-1-Maxim/static/js/main.c12d51f8.js",
+    "index.html": "/react-04-1-Maxim/index.html",
+    "main.c9930a93.css.map": "/react-04-1-Maxim/static/css/main.c9930a93.css.map",
+    "main.c12d51f8.js.map": "/react-04-1-Maxim/static/js/main.c12d51f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9930a93.css",
+    "static/js/main.c12d51f8.js"
+  ]
+}
